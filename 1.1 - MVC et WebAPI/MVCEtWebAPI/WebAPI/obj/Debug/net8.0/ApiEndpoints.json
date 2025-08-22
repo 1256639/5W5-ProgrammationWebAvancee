@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "WebAPI.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "WebAPI.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.AccountController",
     "Method": "PrivateTest",
     "RelativePath": "api/Account/PrivateTest",
     "HttpMethod": "GET",
@@ -17,6 +33,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDTO",
+        "Type": "WebAPI.DTO.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
