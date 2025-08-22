@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB448E-8577-40DE-9FC6-E1BFB0FA495B}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.1 - mvc et webapi\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8ACB448E-8577-40DE-9FC6-E1BFB0FA495B}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F110BCC3-87B7-40BB-A55D-BC7D578E2089}|Models\\Models.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.1 - mvc et webapi\\mvcetwebapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F110BCC3-87B7-40BB-A55D-BC7D578E2089}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MVCEtWebAPI",
+              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
+              "RelativeDocumentMoniker": "MVCEtWebAPI\\MVCEtWebAPI.csproj",
+              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj*",
+              "RelativeToolTip": "MVCEtWebAPI\\MVCEtWebAPI.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T17:06:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models",
+              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T17:06:51.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -7,12 +7,12 @@
     <UserSecretsId>aspnet-MVCEtWebAPI-95a53e7f-4195-422b-9b35-6ce8c389f5f6</UserSecretsId>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.19" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.19" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.19" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.19" />
+  <ItemGroup>   
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
   </ItemGroup>
 
 </Project>
