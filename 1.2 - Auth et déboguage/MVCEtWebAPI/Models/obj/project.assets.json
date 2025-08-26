@@ -3167,11 +3167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et déboguage\\MVCEtWebAPI\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
+      "projectPath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et déboguage\\MVCEtWebAPI\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\1256639\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\Models\\obj\\",
+      "outputPath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et déboguage\\MVCEtWebAPI\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

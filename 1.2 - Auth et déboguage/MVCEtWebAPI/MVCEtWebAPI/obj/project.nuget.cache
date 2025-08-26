@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WGRR50tjl70=",
+  "dgSpecHash": "vw0jGj0Jvs0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.1 - MVC et WebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et déboguage\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1256639\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\1256639\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
