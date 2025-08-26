@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCEtWebAPI
 build_property.RootNamespace = MVCEtWebAPI
@@ -42,6 +50,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/1256639/Desktop/5W5-ProgrammationWebAvancee/1.2 - Auth et déboguage/MVCEtWebAPI/MVCEtWebAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1256639/Desktop/5W5-ProgrammationWebAvancee/1.2 - Auth et déboguage/MVCEtWebAPI/MVCEtWebAPI/Views/TestDatas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdERhdGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1256639/Desktop/5W5-ProgrammationWebAvancee/1.2 - Auth et déboguage/MVCEtWebAPI/MVCEtWebAPI/Views/TestDatas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdERhdGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1256639/Desktop/5W5-ProgrammationWebAvancee/1.2 - Auth et déboguage/MVCEtWebAPI/MVCEtWebAPI/Views/TestDatas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdERhdGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1256639/Desktop/5W5-ProgrammationWebAvancee/1.2 - Auth et déboguage/MVCEtWebAPI/MVCEtWebAPI/Views/TestDatas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdERhdGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1256639/Desktop/5W5-ProgrammationWebAvancee/1.2 - Auth et déboguage/MVCEtWebAPI/MVCEtWebAPI/Views/TestDatas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdERhdGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/1256639/Desktop/5W5-ProgrammationWebAvancee/1.2 - Auth et déboguage/MVCEtWebAPI/MVCEtWebAPI/Views/_ViewImports.cshtml]

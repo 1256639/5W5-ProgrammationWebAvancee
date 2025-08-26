@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F110BCC3-87B7-40BB-A55D-BC7D578E2089}|Models\\Models.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F110BCC3-87B7-40BB-A55D-BC7D578E2089}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\webapi\\dto\\loginsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\loginsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\webapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FDD37E3-50CC-48FD-9E62-1BC7FBEC3E86}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ACB448E-8577-40DE-9FC6-E1BFB0FA495B}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\1256639\\desktop\\5w5-programmationwebavancee\\1.2 - auth et d\u00E9boguage\\mvcetwebapi\\mvcetwebapi\\controllers\\testdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB448E-8577-40DE-9FC6-E1BFB0FA495B}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\controllers\\testdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\WebAPI.csproj",
-              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
-              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\WebAPI.csproj",
-              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T16:06:17.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Models.csproj",
-              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\Models\\Models.csproj",
-              "RelativeDocumentMoniker": "Models\\Models.csproj",
-              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\Models\\Models.csproj",
-              "RelativeToolTip": "Models\\Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T16:06:14.617Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\Program.cs*",
-              "RelativeToolTip": "WebAPI\\Program.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEcAAAATAAAAAAAAAA==",
+              "Title": "TestDatasController.cs",
+              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\MVCEtWebAPI\\Controllers\\TestDatasController.cs",
+              "RelativeDocumentMoniker": "MVCEtWebAPI\\Controllers\\TestDatasController.cs",
+              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\MVCEtWebAPI\\Controllers\\TestDatasController.cs",
+              "RelativeToolTip": "MVCEtWebAPI\\Controllers\\TestDatasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:57:06.51Z",
+              "WhenOpened": "2025-08-26T18:41:36.68Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginSuccessDTO.cs",
-              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\DTO\\LoginSuccessDTO.cs",
-              "RelativeDocumentMoniker": "WebAPI\\DTO\\LoginSuccessDTO.cs",
-              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\DTO\\LoginSuccessDTO.cs",
-              "RelativeToolTip": "WebAPI\\DTO\\LoginSuccessDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:53:24.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "WebAPI\\DTO\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\DTO\\LoginDTO.cs",
-              "RelativeToolTip": "WebAPI\\DTO\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:53:03.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAwwBoAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:48:20.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "WebAPI\\DTO\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\1256639\\Desktop\\5W5-ProgrammationWebAvancee\\1.2 - Auth et d\u00E9boguage\\MVCEtWebAPI\\WebAPI\\DTO\\RegisterDTO.cs",
-              "RelativeToolTip": "WebAPI\\DTO\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:47:16.178Z"
             }
           ]
         }
