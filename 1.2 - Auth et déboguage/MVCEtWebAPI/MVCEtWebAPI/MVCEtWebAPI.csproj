@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-MVCEtWebAPI-95a53e7f-4195-422b-9b35-6ce8c389f5f6</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>   
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+  </ItemGroup>
+
+</Project>
